@@ -243,7 +243,7 @@ https://adworld.xctf.org.cn/
 
 5. 学有余力可以继续学习其他内容和知识，一样的要求记录笔记提交
 
-#### 💻 7月22日Crypto方向第一节课-密码基础
+#### :key: 7月22日 Crypto方向第一节课-密码基础
 
 ##### 课前准备
 
@@ -289,7 +289,7 @@ python实现基础的RSA,DES,AES加解密(ECB模式),尽力写，实在完成不
 
 链接: <https://pan.baidu.com/s/1ypq5-nsQPLooZZvtrndVbA?pwd=walt> 提取码: walt
 
-#### 💻 7月27日Crypto方向第二节课-公钥密码RSA
+#### :key: 7月27日 Crypto方向第二节课-公钥密码RSA
 
 ##### 课前准备
 
@@ -325,7 +325,7 @@ https://www.nssctf.cn/problem/3976
 
 https://www.nssctf.cn/problem/2176)
 
-#### 💻 7月28日re方向第二节课-常见加密
+#### 💻 7月28日 re方向第二节课-常见加密
 
 ##### 讲义
 
@@ -350,11 +350,35 @@ base64:https://ctf.xidian.edu.cn/training/14?challenge=562&tab=terminal
 
 tea:https://www.nssctf.cn/problem/3327
 
-#### 💻 7月29日Web方向第三节课-sql注入
+#### 💻 7月29日 Web方向第三节课-sql注入
 
 ##### 讲义&作业
 
 web第三节课《sql注入课程准备》https://www.yuque.com/yuqueyonghulcrjty/gy0gy7/abd11wwurweswo5w?singleDoc
+
+#### :key: 7月30日 Crypto方向第三节课-对称密码
+
+##### 课前准备
+
+1. lesson-1的作业认真完成
+2. 大致了解对称密码体系
+
+##### 课程内容
+
+详情见Crypto模块lesson-3
+
+- 讲义同步发在群里了.
+- DES弱密钥
+- AES-ECB、CBC、CTR
+- LCG
+
+##### 课程作业
+
+交学习记录:
+
+1. 在CRYPTOHACK里注册账号, 然后把HOW AES WORKS, SYMMETRIC STARTER, BLOCK CIPHERS 1部分完成, 应该都不算难, 有问题可以问我.
+   - https://cryptohack.org/challenges/aes/
+2. 在下面这些刷题网站里(不仅限于这些网站)刷题, DES和CTR的题目可能不多, 侧重ECB, CBC, LCG, 有余力的可以再做做其他对称算法的题, MT19937, LFSR等等.
 
 ### CTF
 
